@@ -1,1 +1,1 @@
-### Valor atual é 100% de nível no tanque aberto.###
+### Valor atual é 100% de nível no tanque aberto
