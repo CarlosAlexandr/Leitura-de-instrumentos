@@ -1,2 +1,2 @@
-- ##Leitura-de-instrumentos##
-- Meu primeiro projeto de Github
+- Leitura-de-instrumentos
+- Meu primeiro projeto de Github - repositório de desafio do projeto sobre Git da Dio.
